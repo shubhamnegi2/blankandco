@@ -367,6 +367,9 @@ footer p span {
   .TopBanner .bannerTitle {
     margin-top: -25px;
   }
+  .newsLatter .rightSec form .formGroup {
+    text-align: center;
+  }
 }
 @media screen and (max-width: 400px) {
   header .logo {
